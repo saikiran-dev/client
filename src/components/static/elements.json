@@ -1,0 +1,20 @@
+[
+  {
+    "name": "TextInput",
+    "text": "Text",
+    "label": "Label",
+    "value": "Enter Your Input Here..."
+  },
+  {
+    "name": "LongTextInput",
+    "text": "Long Text",
+    "label": "Label",
+    "value": "Enter Your Input Here..."
+  },
+  {
+    "name": "RadioButton",
+    "text": "Radio",
+    "label": "Label",
+    "value": "Enter Your Input Here..."
+  }
+]
